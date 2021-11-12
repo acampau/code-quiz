@@ -1,9 +1,9 @@
 <h1> Code Quiz </h1>
 
 <h2> Description</h2>
-<p>This project required buidling a timed quiz tht inlcuded both multiple-choice questions and interactive coding challenges. 
+<p>This project required buidling a timed quiz that inlcuded both multiple-choice questions and interactive coding challenges. The applicaiton includes the following:  
     <ul>
-   <li>Runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code</li>
+   <li>Runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code</li>
    <li>Has a clean and polished, responsive user interface that adapts to multiple screen sizes </li>
     </ul>
     </p>
